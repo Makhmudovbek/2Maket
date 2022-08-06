@@ -1,0 +1,397 @@
+@media screen and (min-width:1101px)and (max-width:1300px){
+    .main{
+        width:1000px;
+    }
+    .top{
+        width: 1000px;
+    }
+    .topl{
+        width: 155px;
+        left: 105px;
+    }
+    .menyu{
+        width: 1000px;
+    }
+    #menyu1{
+        width: 103px;
+    }
+    .menyu ul li{
+        width: 155px;
+    }
+    .center{
+        width: 1000px;
+    }
+    .cleft{
+        width: 250px;
+        left: 60px;
+    }
+    .ccenter{
+        width: 250px;
+        left: 370px;
+    }
+    .cright{
+        width: 270px;
+        left: 680px;
+    }
+    .center2{
+        width: 1000px;
+    }
+    .c2left{
+        width: 210px;
+        left: 60px;
+    }
+    .c2center{
+        width: 220px;
+        left: 370px;
+    }
+    .c2right{
+        width: 240px;
+        left: 680px;
+    }
+    .bottom{
+        width: 1000px;
+    }
+    #bbottom p{
+        left:60px;
+    }
+}
+@media screen and (min-width:801px)and (max-width:1100px){
+    .main{
+        width:700px;
+    }
+    .top{
+        width: 700px;
+    }
+    .topl{
+        width: 110px;
+        left: 70px;
+    }
+    .topl p{
+       font-size: 25px;
+    }
+    #p1{
+        left: 435px;
+    }
+    .menyu{
+        width: 700px;
+    }
+    #menyu1{
+        width: 66px;
+    }
+    .menyu ul li{
+        width: 110px;
+    }
+    .rasm{
+        width: 700px;
+    }
+    .rleft{
+        width: 235px;
+    }
+    .rl1{
+        width:520px;
+        margin-top:80px;
+        font-size: 25px;
+        margin-left: 20px;
+    }
+    .rl2{
+        width:320px;
+        height: 30px;
+        font-size: 50px;
+        margin-left: 20px;
+    }
+    .rl3{
+        width:250px;
+        margin-left: 60px;
+        font-size: 50px;
+    }
+    .rl4{
+        width:350px;
+        margin-top:0;
+        margin-left: 60px;
+        font-size: 20px;
+    }
+    .rright{
+        width: 400px;
+    }
+    .center{
+        width: 700px;
+    }
+    .cleft{
+        width: 235px;
+        left: 5px;
+    }
+    .clbot{
+        width: 210px;
+    }
+    .rasm2{
+        width: 80px;
+    }
+    .rright2{
+        width: 150px;
+    }
+    .ccenter{
+        width: 230px;
+        left: 240px;
+    }
+    .cccen2{
+        width: 230px;
+    }
+    .ccbot{
+        width: 230px;
+    }
+    .cright{
+        width: 210px;
+        left: 480px;
+    }
+    .crbot2{
+        width: 210px;
+    }
+    .br2top{
+        width: 150px;
+        font-size: 20px;
+    }
+    .br2left{
+        width:130px ;
+    }
+    .br2right{
+        width:40px ;
+    }
+    .center2{
+        width: 700px;
+    }
+    .c2left{
+        width: 200px;
+        left:5px;
+    }
+    .c2center{
+        width: 210px;
+        left: 230px;
+    }
+    .c2right{
+        width: 220px;
+        left: 480px;
+    }
+    .bottom{
+        width: 700px;
+    }
+    #bbottom p{
+        left:5px;
+    }
+}
+@media screen and (min-width:501px) and (max-width:800px){
+    .main{
+        width:500px;
+        height: 2525px;
+    }
+    .top{
+        width: 500px;
+    }
+    .topl{
+        width: 97px;
+        left: 102px;
+    }
+    .topl p{
+        top: 20px;
+       font-size: 20px;
+    }
+    #p1{
+        left: 280px;
+    }
+    .menyu{
+        width: 500px;
+    }
+    #menyu1{
+        display: none;
+    }
+    .menyu ul li{
+        width: 97px;
+    }
+    .rasm{
+        width: 500px;
+        height: 650px;
+    }
+    .rleft{
+        width: 530px;
+    }
+    .rl1{
+        width:520px;
+        margin-top:60px;
+        margin-left: 130px;
+    }
+    .rl2{
+        width:320px;
+        margin-left: 130px;
+    }
+    .rl3{
+        width:250px;
+        margin-left: 200px;
+    }
+    .rl4{
+        width:350px;
+        margin-left: 200px;
+    }
+    .rright{
+        width: 600px;
+    }
+    .center{
+        width: 500px;
+        height:1000px ;
+    }
+    .cleft{
+        width: 270px;
+        top: 35px;
+        left: 130px;
+        bottom: 70px;
+    }
+    .ccenter{
+        width: 230px;
+        left: 130px;
+        top: 350px;
+    }
+    .cright{
+        width: 210px;
+        left: 130px;
+        top: 680px;
+    }
+    .center2{
+        width: 500px;
+        height: 650px;
+    }
+    .c2left{
+        width: 210px;
+        top: 30px;
+        left: 130px;
+    }
+    .c2center{
+        width: 240px;
+        top: 240px;
+        left:130px;
+    }
+    .c2right{
+        width: 250px;
+        top: 450px;
+        left: 130px;
+    }
+    .bottom{
+        width: 500px;
+    }
+    #bbottom p{
+        left:130px;
+    }
+}
+@media screen and (min-width:301px) and (max-width:500px){
+    .main{
+        width:300px;
+        height: 2488px;
+    }
+    .top{
+        width: 300px;
+    }
+    .topl{
+        width: 97px;
+        left: 3px;
+    }
+    .topl p{
+        top: 20px;
+       font-size: 20px;
+    }
+    #p1{
+        font-size: 15px;
+        left: 120px;
+    }
+    .menyu{
+        width: 300px;
+        height: 130px;
+    }
+    #menyu1{
+        display: none;
+    }
+    .menyu ul li{
+        width: 97px;
+    }
+    .rasm{
+        width: 300px;
+        height: 540px;
+    }
+    .rleft{
+        width: 300px;
+    }
+    .rl1{
+        width:300px;
+        margin-top:60px;
+        margin-left: 5px;
+    }
+    .rl2{
+        width:300px;
+        margin-left: 5px;
+    }
+    .rl3{
+        width:250px;
+        margin-left: 75px;
+    }
+    .rl4{
+        width:300px;
+        margin-left: 75px;
+    }
+    .rright img{
+        width: 300px;
+    }
+    .center{
+        width: 300px;
+        height:1000px;
+    }
+    .cleft{
+        width: 270px;
+        top: 35px;
+        left: 40px;
+        bottom: 70px;
+    }
+    .ccenter{
+        width: 230px;
+        left:40px;
+        top: 350px;
+    }
+    .cright{
+        width: 210px;
+        left: 40px;
+        top: 680px;
+    }
+    .crbot2{
+        width: 210px;
+    }
+    .br2top{
+        width: 150px;
+        font-size: 20px;
+    }
+    .br2left{
+        width:130px;
+    }
+    .br2right{
+        width:40px;
+    }
+    .center2{
+        width: 300px;
+        height: 650px;
+    }
+    .c2left{
+        width: 210px;
+        top: 30px;
+        left: 40px;
+    }
+    .c2center{
+        width: 240px;
+        top: 240px;
+        left:40px;
+    }
+    .c2right{
+        width: 250px;
+        top: 450px;
+        left: 40px;
+    }
+    .bottom{
+        width: 300px;
+    }
+    #bbottom p{
+        left:40px;
+    }
+}
